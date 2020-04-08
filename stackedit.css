@@ -61,6 +61,7 @@ format("woff"),url(/static/fonts/KaTeX_Typewriter-Regular.2570235.ttf)
 format("truetype");font-weight:400;font-style:normal}.katex{font:normal 1.21em
 KaTeX_Main,Times New
 Roman,serif;line-height:1.2;text-indent:0;text-rendering:auto}.katex
+
 *{-ms-high-contrast-adjust:none!important}.katex
 .katex-version:after{content:"0.10.2"}.katex
 .katex-mathml{position:absolute;clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden}.katex
@@ -631,3 +632,21 @@ a:hover{background-color:rgba(0,0,0,.075);border-radius:3px}.stackedit__left{pos
 (min-width:1060px){.stackedit__right{left:250px}}.stackedit--pdf
 blockquote{border-left-color:#ececec}.stackedit--pdf
 .stackedit__html{padding-left:0;padding-right:0;max-width:none}
+
+/*Code CSS perso*/
+.cequecettepagedoitcontenir{
+  color:rgb(255, 0, 0)
+}
+.criterebronze{
+  color:rgb(196, 89, 17)
+}
+.critereargent{
+  color:rgb(128, 128, 128)
+}
+.critereor{
+  color:rgb(191, 143, 0)
+}
+.inspiration{
+  color:rgb(112, 48, 160)
+}
+/*Fin code CSS perso*/
