@@ -632,21 +632,3 @@ a:hover{background-color:rgba(0,0,0,.075);border-radius:3px}.stackedit__left{pos
 (min-width:1060px){.stackedit__right{left:250px}}.stackedit--pdf
 blockquote{border-left-color:#ececec}.stackedit--pdf
 .stackedit__html{padding-left:0;padding-right:0;max-width:none}
-
-/*Code CSS perso*/
-.cequecettepagedoitcontenir{
-  color:rgb(255, 0, 0)
-}
-.criterebronze{
-  color:rgb(196, 89, 17)
-}
-.critereargent{
-  color:rgb(128, 128, 128)
-}
-.critereor{
-  color:rgb(191, 143, 0)
-}
-.inspiration{
-  color:rgb(112, 48, 160)
-}
-/*Fin code CSS perso*/
