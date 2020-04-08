@@ -1,29 +1,32 @@
 /*Code CSS perso*/
 .cequecettepagedoitcontenir{
-  color:rgb(255, 0, 0)
+  color:rgb(255, 0, 0);
 }
 .criterebronze{
-  color:rgb(196, 89, 17)
+  color:rgb(196, 89, 17);
 }
 .critereargent{
-  color:rgb(128, 128, 128)
+  color:rgb(128, 128, 128);
 }
 .critereor{
-  color:rgb(191, 143, 0)
+  color:rgb(191, 143, 0);
 }
 .inspiration{
-  color:rgb(112, 48, 160)
+  color:rgb(112, 48, 160);
 }
 .notes{
-  color:rgb(0, 176, 80)
+  color:rgb(0, 176, 80);
 }
 .prix{
-  color:rgb(68, 114, 196)
+  color:rgb(68, 114, 196);
 }
 .rappel{
-  color:rgb(192, 0, 0)
+  color:rgb(192, 0, 0);
 }
 .banner{
   background: url(banner.jpg) center repeat-x;
+}
+p{
+  text-align:justify;
 }
 /*Fin code CSS perso*/
