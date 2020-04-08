@@ -23,4 +23,7 @@
 .rappel{
   color:rgb(192, 0, 0)
 }
+.banner{
+  background: white url(banner.jpg) center repeat-x;
+}
 /*Fin code CSS perso*/
