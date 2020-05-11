@@ -26,6 +26,11 @@
 .banner{
   background: url(banner.jpg) center repeat-x;
 }
+.advice{
+  color:#FF7F00;
+}
+
+
 p{
   text-align:justify;
 }
